@@ -1,8 +1,8 @@
->[!todo] Задание  
+>Задание  
 >Generate distribution of 0.01 quantile (1% percentile) of 10-days overlapping proportional returns obtained from the 3-years timeseries (750 observations) of 1-day returns. Original timeseries is generated using stable distribution with the following parameters: alpha = 1.7; beta = 0.0; gamma = 1.0; delta = 1.0. 
 >Show, either numerically or theoretically, that the chosen number of Monte-Carlo trials is sufficient.
 
->[!todo] Задание на русском языке
+> Задание на русском языке
 > Сгенерируйте распределение 0.01-квантиля (1-го процентиля) 10-дневных перекрывающихся пропорциональных доходностей, полученных из 3-летнего временного ряда (750 наблюдений) однодневных доходностей. Исходный временной ряд создается с использованием устойчивого распределения с следующими параметрами: α = 1.7; β = 0.0; γ = 1.0; δ = 1.0.
 > Покажите, численно или теоретически, что выбранное количество испытаний методом Монте-Карло является достаточным.
 
